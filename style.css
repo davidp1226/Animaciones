@@ -1,0 +1,17 @@
+.centradaSuave{
+    display: flex;
+    flex-direction: column;
+    justify-items:center ;
+    align-items: center;
+}
+.hi{
+    background-color: red;
+    color: blue;
+    
+}
+iframe{
+    border-radius: 22px;
+}
+.marginTop50{
+    margin-top: 50px;
+}
